@@ -12,4 +12,4 @@ Implementasi yang sederhana untuk memudahkan pemahaman dan modifikasi.
 Kontribusi dipersilakan. Jangan ragu untuk menyarankan perbaikan atau mengirimkan permintaan tarik.
 
 ## Kontak
-Untuk pertanyaan atau informasi lebih lanjut, silakan hubungi admin.
+Untuk pertanyaan atau informasi lebih lanjut, silakan hubungi admin
